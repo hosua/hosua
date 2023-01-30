@@ -1,4 +1,4 @@
-Hi, I like coding.
+Hi
 
 ### LeetCode stats
 
