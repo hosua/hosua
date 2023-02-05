@@ -1,7 +1,3 @@
-Hi
-
-### LeetCode stats
-
 ![LeetCode Stats](https://leetcode.card.workers.dev/hosua?theme=dark&font=source_code_pro&extension=null)
 
 <!--
