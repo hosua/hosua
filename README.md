@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sup
+Certified capybara enthusiast
 
 ### My Certifications
 <!--START_SECTION:badges-->
